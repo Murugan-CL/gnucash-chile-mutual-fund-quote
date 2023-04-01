@@ -23,3 +23,16 @@ self compiled: /usr/local/share/perl/5.xx.x/Finance
 Windows: C:\Strawberry\perl\site\lib\Finance
 macOS: /Library/Perl/5.xx/Finance where xx depends on the version of perl in use when you installed Finanace::Quote.
 macOS upgrades may require reinstallation of Finance::Quote because older version directories are not included in @INC.
+
+![My Image](quote.jpg)
+
+
+Setup Details
+
+![My Image](securityeditor.jpg)
+
+![My Image](securityeditor1.jpg)
+
+Get Quote
+
+![My Image](getprice.jpg)
